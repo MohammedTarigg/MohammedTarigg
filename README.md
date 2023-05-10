@@ -5,4 +5,4 @@
 • 📫 How to reach me: mohamed.tarigsd@gmail.com  
   
 # Github status 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MohammedTarigg)](https://github.com/anuraghazra/github-readme-stats)
