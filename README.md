@@ -1,7 +1,6 @@
 # Hi there 👋  
-• 💬 I'm Mohamed Tarig Saeed
-• 🔭 I do frontend/web development  
-• 🌱 I’m currently learning advanced Javascript/React  
+• 💬 I'm Mohamed Tarig Saeed  
+• 🔭 I do frontend/web/cloud development  
 • 📫 How to reach me: mohamed.tarigsd@gmail.com  
  
 ## 🌐 Socials:
