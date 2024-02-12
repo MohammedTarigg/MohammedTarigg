@@ -1,6 +1,6 @@
 # Hi there 👋  
 • 💬 I'm Mohamed Tarig Saeed  
-• 🔭 I do frontend/web/cloud development & Security 
+• 🔭 I do frontend/web/cloud development & Security  
 • 📫 How to reach me: mohamed.noursd@outlook.com  
  
 ## 🌐 Socials:
