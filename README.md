@@ -1,7 +1,5 @@
 # Hi there 👋  
-• 💬 I'm Mohamed Tarig Saeed  
-• 🔭 I do frontend/web/cloud development & Security  
-• 📫 How to reach me: mohamed.noursd@outlook.com  
+• 💬 I'm Mohamed Tarig Nour  
  
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-tarigg/) 
