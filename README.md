@@ -1,2 +1,2 @@
 # Hi there 👋  
-• 💬 I'm Mohamed Tarig Nour  
+• 💬 I'm Mohamed Tarig  
